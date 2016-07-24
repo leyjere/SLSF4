@@ -1,0 +1,9 @@
+slsf4 configuration/\lcdconf_lin_template.o: ..\emwin\LCDConf_Lin_Template.c
+slsf4 configuration/\lcdconf_lin_template.o: ..\emwin\GUI.h
+slsf4 configuration/\lcdconf_lin_template.o: ..\emwin\GUI_ConfDefaults.h
+slsf4 configuration/\lcdconf_lin_template.o: ..\emwin\GUIConf.h
+slsf4 configuration/\lcdconf_lin_template.o: ..\emwin\GUI_Type.h
+slsf4 configuration/\lcdconf_lin_template.o: ..\emwin\LCD.h
+slsf4 configuration/\lcdconf_lin_template.o: ..\emwin\Global.h
+slsf4 configuration/\lcdconf_lin_template.o: ..\emwin\GUI_Version.h
+slsf4 configuration/\lcdconf_lin_template.o: ..\emwin\GUIDRV_Lin.h
